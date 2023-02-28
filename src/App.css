@@ -16,6 +16,13 @@
   min-width: 10vh;
 }
 
+.activated {
+  background-color: brown;
+  margin-top: 2vh;
+  min-height: 10vh;
+  min-width: 10vh;
+}
+
 .input {
   display: flex;
   gap: 2rem;
